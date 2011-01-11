@@ -23,7 +23,7 @@ This section describes how to install the plugin and get it working.
 
 = What does this do? =
 
-Allows you to add 'dummy text' with HTML markup into a post or page. Great for texting a new layout or design. Simply place the [dummy] shortcode on the HTML tab.
+Allows you to add 'dummy text' with HTML markup into a post or page. Great for testing a new layout or design. Simply place the [dummy] shortcode on the HTML tab.
 
 
 == Screenshots ==
