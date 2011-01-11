@@ -36,9 +36,7 @@ Allows you to add 'dummy text' with HTML markup into a post or page. Great for t
 * Initial release
 
 == Upgrade Notice ==
-
+* Should not affect any existing plugins / frameworks.
 
 == Potential Enhancements ==
 * Got a bug? Something look off? Hit me up.
-
-
