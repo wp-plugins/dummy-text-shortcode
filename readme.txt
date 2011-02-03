@@ -1,5 +1,5 @@
 === Dummy Text Shortcode ===
-Contributors: Andrew Norcross
+Contributors: norcross
 Donate link: http://andrewnorcross.com/donate
 Tags: dummy text, shortcodes
 Requires at least: 2.8
