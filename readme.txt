@@ -1,7 +1,8 @@
 === Dummy Text Shortcode ===
 Contributors: norcross
+Website Link: http://andrewnorcross.com/tools/dummy-text-shortcode/
 Donate link: http://andrewnorcross.com/donate
-Tags: dummy text, shortcodes
+Tags: dummy text, shortcodes, markup content, dummy content
 Requires at least: 2.8
 Tested up to: 3.1
 Stable tag: 1.0
