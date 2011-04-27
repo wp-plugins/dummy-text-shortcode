@@ -4,7 +4,7 @@ Website Link: http://andrewnorcross.com/tools/dummy-text-shortcode/
 Donate link: http://andrewnorcross.com/donate
 Tags: dummy text, shortcodes, markup content, dummy content
 Requires at least: 2.8
-Tested up to: 3.1
+Tested up to: 3.1.2
 Stable tag: 1.0
 
 Allows for dummy text to be placed in a post / page with the [dummy] shortcode.
