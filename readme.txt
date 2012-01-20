@@ -1,11 +1,11 @@
 === Dummy Text Shortcode ===
 Contributors: norcross
-Website Link: http://andrewnorcross.com/tools/dummy-text-shortcode/
+Website Link: http://andrewnorcross.com/plugins/dummy-text-shortcode/
 Donate link: http://andrewnorcross.com/donate
-Tags: dummy text, shortcodes, markup content, dummy content
-Requires at least: 2.8
-Tested up to: 3.1.2
-Stable tag: 1.0
+Tags: dummy text, shortcodes, markup content, dummy content, lorem ipsum
+Requires at least: 2.5
+Tested up to: 3.3.1
+Stable tag: 1.01
 
 Allows for dummy text to be placed in a post / page with the [dummy] shortcode.
 
@@ -32,6 +32,9 @@ Allows you to add 'dummy text' with HTML markup into a post or page. Great for t
 1. Text displayed on a post
 
 == Changelog ==
+
+= 1.01 =
+* Added banner image and WP version number
 
 = 1.0 =
 * Initial release

@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: Dummy Text Shortcode
-Plugin URI: http://wordpress.org/extend/plugins/dummy-text/
+Plugin URI: http://andrewnorcross.com/plugins/dummy-text-shortcode/
 Description: Adds dummy text via a shortcode. Just place the shortcode [dummy] in any post or page in the HTML tab.
-Version: 1.0
-Author: Andrew Norcross
+Version: 1.01
+Author: norcross
 Author URI: http://andrewnorcross.com
 */
 
-/*  Copyright 2010 Andrew Norcross
+/*  Copyright 2012 Andrew Norcross
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
